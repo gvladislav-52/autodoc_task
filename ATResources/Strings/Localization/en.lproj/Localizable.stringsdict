@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>count_of_designers_charts</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count_designers_charts@</string>
+		<key>count_designers_charts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d charts</string>
+			<key>one</key>
+			<string>%d chart</string>
+			<key>two</key>
+			<string>%d charts</string>
+			<key>few</key>
+			<string>%d charts</string>
+			<key>many</key>
+			<string>%d charts</string>
+			<key>other</key>
+			<string>%d charts</string>
+		</dict>
+	</dict>
+	<key>chart_key_strand</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@strand_key@</string>
+		<key>strand_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d strand</string>
+			<key>one</key>
+			<string>%d strand</string>
+			<key>two</key>
+			<string>%d strands</string>
+			<key>few</key>
+			<string>%d strands</string>
+			<key>many</key>
+			<string>%d strands</string>
+			<key>other</key>
+			<string>%d strands</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

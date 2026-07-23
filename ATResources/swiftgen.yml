@@ -1,0 +1,18 @@
+strings:
+  inputs:
+    - Strings/Localization/en.lproj
+  outputs:
+    - templateName: structured-swift5
+      output: Strings/Strings+Generated.swift
+      params:
+        enumName: Strings
+        publicAccess: true
+xcassets:
+  inputs:
+    - Images/Images.xcassets
+  outputs:
+    - templateName: swift5
+      output: Images/Images+Generated.swift
+      params:
+        enumName: Assets
+        publicAccess: true

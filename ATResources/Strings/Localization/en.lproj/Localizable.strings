@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  KLResources
+
+  Created by Senla on 29.05.2026.
+*/
+
+"APIError.Backend.unauthorized" = "You are not authorized. Please sign in.";
+"APIError.Backend.httpFailed" = "The server returned an error with status code %d.";
+"APIError.Backend.requestTimeout" = "The request timed out. Please check your internet connection.";
+"APIError.Backend.background" = "A background error occurred: %@";
+"APIError.InternalError.badResponse" = "The server returned an invalid response.";
+"APIError.InternalError.invalidRequest" = "The request is invalid. Please check the entered data.";
+"APIError.InternalError.invalidURL" = "The URL is invalid. Please contact support.";
+"APIError.InternalError.networkUnavailable" = "Network unavailable. Please check your internet connection.";
+"APIError.InternalError.dataEncoding" = "Failed to encode data. Please try again.";
+"APIError.InternalError.dataDecoding" = "Failed to decode data. Please check the data format from the server.";
+"APIError.InternalError.keychainWriteFailure" = "Failed to write data";
+"APIError.InternalError.keychainDeleteFailure" = "Failed to delete data";
+"APIError.Common.unknown" = "An unknown error occurred: %@";
+
+"Home.Section.Posts.title" = "Posts";
+"Home.Screen.title" = "Home";
+
+"Home.ErrorAlert.title" = "Error";
+"Home.ErrorAlert.retry" = "Retry";
+"Home.ErrorAlert.cancel" = "Cancel";

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>count_of_designers_charts</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@count_designers_charts@</string>
+		<key>count_designers_charts</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d схем</string>
+			<key>one</key>
+			<string>%d схема</string>
+			<key>two</key>
+			<string>%d схемы</string>
+			<key>few</key>
+			<string>%d схемы</string>
+			<key>many</key>
+			<string>%d схем</string>
+			<key>other</key>
+			<string>%d схем</string>
+		</dict>
+	</dict>
+	<key>chart_key_strand</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@strand_key@</string>
+		<key>strand_key</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>d</string>
+			<key>zero</key>
+			<string>%d нить</string>
+			<key>one</key>
+			<string>%d нить</string>
+			<key>two</key>
+			<string>%d нити</string>
+			<key>few</key>
+			<string>%d нити</string>
+			<key>many</key>
+			<string>%d нитей</string>
+			<key>other</key>
+			<string>%d нити</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

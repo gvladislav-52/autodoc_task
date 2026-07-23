@@ -1,0 +1,27 @@
+/*
+  Localizable.strings
+  KLResources
+
+  Created by Senla on 29.05.2026.
+*/
+
+"APIError.Backend.unauthorized" = "Вы не авторизованы. Пожалуйста, выполните вход.";
+"APIError.Backend.httpFailed" = "Сервер вернул ошибку со статус-кодом %d.";
+"APIError.Backend.requestTimeout" = "Время ожидания запроса истекло. Проверьте подключение к интернету.";
+"APIError.Backend.background" = "Произошла фоновая ошибка: %@";
+"APIError.InternalError.badResponse" = "Сервер вернул некорректный ответ.";
+"APIError.InternalError.invalidRequest" = "Запрос некорректен. Проверьте введённые данные.";
+"APIError.InternalError.invalidURL" = "URL недействителен. Обратитесь в поддержку.";
+"APIError.InternalError.networkUnavailable" = "Сеть недоступна. Проверьте подключение к интернету.";
+"APIError.InternalError.dataEncoding" = "Не удалось закодировать данные. Попробуйте ещё раз.";
+"APIError.InternalError.dataDecoding" = "Не удалось декодировать данные. Проверьте формат данных с сервера.";
+"APIError.InternalError.keychainWriteFailure" = "Не удалось записать данные";
+"APIError.InternalError.keychainDeleteFailure" = "Не удалось удалить данные";
+"APIError.Common.unknown" = "Произошла неизвестная ошибка: %@";
+
+"Home.Section.Posts.title" = "Посты";
+"Home.Screen.title" = "Главная";
+
+"Home.ErrorAlert.title" = "Ошибка";
+"Home.ErrorAlert.retry" = "Повторить";
+"Home.ErrorAlert.cancel" = "Отмена";
