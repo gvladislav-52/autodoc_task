@@ -22,7 +22,7 @@ private extension HomeCollectionLayout {
         let minColumnWidth: CGFloat = 361
         let postsHeight: CGFloat = 48
         let imageAspectRatio: CGFloat = 16.0 / 9.0
-        let textBlockHeight: CGFloat = 165
+        let textBlockHeight: CGFloat = 180
 
         let containerWidth = environment.container.effectiveContentSize.width
         let columnsCount = max(1, Int((containerWidth + padding) / (minColumnWidth + padding)))
